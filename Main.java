@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         int b = 5;
-        int a = 0;
         int sum = 0;
 
         for (int i = 0; i <= b; i++) {
